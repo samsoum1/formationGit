@@ -1,11 +1,15 @@
 Hello Word
 Bonjour
 salut
-<<<<<<< HEAD
+
+
 https://github.com/ayarii/Git-GitHub-GitHubClassroom
-=======
+
 test branche1
->>>>>>> branche1
+
 
 hello for main
+
+=======
+voila je me sens bien
 
