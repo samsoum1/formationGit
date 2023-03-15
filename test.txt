@@ -8,5 +8,18 @@ https://github.com/ayarii/Git-GitHub-GitHubClassroom
 test branche1
 
 
+<<<<<<< HEAD
 hello for mai
 voila je me sens bi
+=======
+hello for ma
+voila je me sens bien
+
+merci beaucoup !!!!!!!!!!!!!!!!!
+
+dzggfddsddf
+sdggghhg
+dsdffgggh
+qgdfh
+fqfdhgf
+fsdgfgfnh
